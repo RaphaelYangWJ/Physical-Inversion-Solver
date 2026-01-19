@@ -1,0 +1,2403 @@
+
+ CONCENTRATION OBSERVATION OUTPUT FILE
+ =====================================
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    5.000    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    10.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    15.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    20.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    25.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    30.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    35.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    40.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    45.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        1
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    50.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    55.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    60.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    65.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    70.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    75.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    80.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    85.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    90.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    95.00    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        2
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    100.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    105.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    110.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    115.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    120.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    125.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    130.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    135.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    140.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    145.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        3
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    150.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    155.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    160.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    165.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    170.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    175.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    180.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    185.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    190.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    195.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        4
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    200.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    205.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    210.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    215.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    220.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    225.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    230.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    235.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    240.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    245.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        5
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    250.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    255.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    260.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    265.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    270.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    275.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    280.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    285.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    290.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    295.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        6
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    300.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    305.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    310.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    315.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    320.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    325.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    330.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    335.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    340.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    345.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        7
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    350.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    355.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    360.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    365.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    370.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    375.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    380.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    385.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    390.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    395.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        8
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    400.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    405.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    410.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    415.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    420.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    425.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    430.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    435.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    440.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    445.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:        9
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    450.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    455.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    460.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    465.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    470.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    475.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    480.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    485.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    490.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    495.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       10
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    500.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    505.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    510.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    515.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    520.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    525.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    530.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    535.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    540.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    545.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       11
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    550.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    555.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    560.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    565.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    570.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    575.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    580.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    585.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    590.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    595.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       12
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    600.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    605.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    610.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    615.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    620.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    625.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    630.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    635.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    640.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    645.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       13
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    650.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    655.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    660.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    665.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    670.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    675.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    680.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    685.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    690.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    695.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       14
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    700.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    705.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    710.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    715.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    720.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    725.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    730.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    735.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    740.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    745.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       15
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    750.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    755.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    760.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    765.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    770.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    775.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    780.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    785.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    790.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    795.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       16
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    800.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    805.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    810.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    815.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    820.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    825.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    830.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    835.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    840.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    845.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       17
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    850.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    855.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    860.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    865.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    870.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    875.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    880.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    885.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    890.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    895.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       18
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    900.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    905.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    910.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    915.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    920.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    925.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    930.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    935.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    940.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    945.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       19
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    950.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:        1
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    955.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:        2
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    960.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:        3
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    965.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:        4
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    970.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:        5
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    975.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:        6
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    980.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:        7
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    985.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:        8
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    990.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:        9
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    995.0    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
+
+
+ ******************************
+      STRESS PERIOD:       20
+          TIME STEP:       10
+     TRANSPORT STEP:        1
+ TOTAL ELAPSED TIME:    1000.    
+ ******************************
+
+ WELLID        X_GRID      Y_GRID     LAYER ROW COLUMN SPECIES  CALCULATED   OBSERVED   WEIGHT    (CAL.-OBS.)
+ ............................................................................................................
+ [No obs wells active at current transport step]
