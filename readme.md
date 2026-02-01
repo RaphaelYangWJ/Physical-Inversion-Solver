@@ -108,5 +108,3 @@ To evaluate the model and perform inversion on sparse observations, we provide a
   3. Visualize the inversion physical result.
 
 ------
-
-*Anonymous Authors, ICML 2026 Submission.*
