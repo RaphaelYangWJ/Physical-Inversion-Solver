@@ -33,8 +33,6 @@
 
 ## Baseline Fairness: Interpolation vs. Raw Sparse Mask
 
-We sincerely appreciate your careful scrutiny. Ensuring a strictly fair comparison is paramount to us. We completely agree that input modalities can significantly impact baseline performance. To eliminate any potential bias, we actually evaluated all grid-based baselines (e.g., FNO, PINN) under both interpolated and non-interpolated (raw sparse mask) conditions.
-
 **Result Table for RMSE:** 
 
 | Dataset    | Model         | Dense: 4096     | Sparse: 256     | Sparse: 64      | Sparse: 32      | Sparse: 16      | Sparse: 12      |
@@ -84,7 +82,7 @@ We sincerely appreciate your careful scrutiny. Ensuring a strictly fair comparis
 
 ## Experiment update: Wall-Clock Inference Time Analysis and the Cost of the Set Encoder
 
-Thanks for you advices as time consumption is crucial to show the engineering advantage in PIS. We have comprehensively benchmarked the wall-clock inference times of PIS and all baselines across 20 independent runs on the same hardware (a single NVIDIA RTX 5090 32GB GPU).
+We have comprehensively benchmarked the wall-clock inference times of PIS and all baselines across 20 independent runs on the same hardware (a single NVIDIA RTX 5090 32GB GPU).
 
 | Category                 | Model         | Preprocessing / Overhead   | Total Time   | UQ Capability |
 | :----------------------- | :------------ | :------------------------- | :----------- | :------------ |
@@ -95,8 +93,6 @@ Thanks for you advices as time consumption is crucial to show the engineering ad
 |                          | DPS           | Explicit PDE Constraint    | **13.634 s** | Yes           |
 |                          | Flow Matching | Grid Interpolation         | **3.035 s**  | Yes           |
 | **Probabilistic (Ours)** | **PIS**       | **Set Encoder (+0.043 s)** | **3.078 s**  | **Yes **      |
-
-As shown, processing the continuous off-grid sensors via the Set Encoder takes merely ~0.043 seconds (43 ms) per sample. Compared to the total ODE sampling time (~3.078 s), this overhead is virtually negligible (< 1.5%). This proves that we achieve our massive performance gains (by bypassing lossy grid interpolation) without introducing any meaningful computational bottleneck. We transparently acknowledge that deterministic operators (like PINN, FNO, and NIO) are significantly faster (~0.04 to ~0.15 s) than PIS. However, this is a fundamental and unavoidable mathematical trade-off: deterministic models only yield a single point estimate without any Uncertainty Quantification (UQ). Given the critical importance of UQ in safety-critical physical systems, an inference time of ~3 seconds per sample is highly competitive and well within the acceptable operational envelope.
 
 ## Experiment update for Toy 2D Bayesian: PIS Learned posterior is close to a reference Bayesian posterior
 
