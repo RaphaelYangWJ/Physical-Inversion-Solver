@@ -4,11 +4,11 @@
 
 ## Calibration Bar Charts
 
-![coverage_barchart](E:\windows_sysfiles\desktop\images\coverage_barchart.png)
+![coverage_barchart](images\coverage_barchart.png)
 
 ### Inversion Display
 
-![IQ](E:\windows_sysfiles\desktop\images\IQ.png)
+![IQ](images\IQ.png)
 
 ### SSIM
 
