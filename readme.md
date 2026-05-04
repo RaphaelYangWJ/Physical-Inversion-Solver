@@ -102,5 +102,5 @@ The optimization is driven by the Adam optimizer and follows a specialized two-s
 To initiate training, run:
 
 ```
-python train.py --config configs/subsurface.yaml
+python train.py
 ```
