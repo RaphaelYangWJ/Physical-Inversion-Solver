@@ -4,6 +4,27 @@ This repository contains the official PyTorch implementation of the paper **"PIS
 
 The Physical Inversion Solver (PIS) is a unified, knowledge-based generative framework that addresses the fundamental trilemma between flexibility, efficiency, and stability in PDE-constrained inverse problems. By natively treating sensor data as permutation-invariant sets, PIS elegantly circumvents the grid-dependency of previous models.  
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="materials/PIS-Darcyflow.gif" alt="DOGIS: Darcy Flow" width="250">
+      <br>
+      <em>PIS: Darcy Flow</em>
+    </td>
+    <td align="center">
+      <img src="materials/PIS-SHM.gif" alt="DOGIS: Structural Health Monitoring" width="250">
+      <br>
+      <em>PIS: Helmholtz</em>
+    </td>
+      <td align="center">
+      <img src="materials/PIS-SHM.gif" alt="DOGIS: Structural Health Monitoring" width="250">
+      <br>
+      <em>PIS: Structural Health Monitoring</em>
+    </td>
+  </tr>
+</table>
+
+
 ## 🌟 Key Highlights
 
 - **Robust Generalization Under Extreme Sparsity:** Employs an effective Cosine-Annealed Sparsity Curriculum (CASC) training strategy to prevent catastrophic posterior collapse, even under extreme <1% observation coverage.  
