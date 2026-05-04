@@ -1,14 +1,15 @@
-# PIS: A Generalized Physical Inversion Solver (Anonymous Submission)
+# PIS: A Generalized Physical Inversion Solver for Arbitrary and Sparse Observations via Set-Transformer Conditioned Flow Matching
 
-This repository contains the official PyTorch implementation for the paper: **"PIS: A Generalized Physical Inversion Solver for Arbitrary Sparse Observations via Set Conditioned Flow Matching"**.
+This repository contains the official PyTorch implementation of the paper **"PIS: A Generalized Physical Inversion Solver for Arbitrary and Sparse Observations via Set-Transformer Conditioned Flow Matching"**.  
 
-> ⚠️ Note to Reviewers regarding Data and Weights:
->
-> Due to the file size limits of the submission system (100MB) and the large scale of the generated physical fields, we cannot include the full pre-trained checkpoints and the complete dataset in this attachment.
->
-> However, to ensure reproducibility, we provide: Complete data generation scripts for all three physical domains (Darcy, Helmholtz, SHM).
->
-> **Full pre-trained weights and large-scale datasets will be publicly released upon acceptance.**
+The Physical Inversion Solver (PIS) is a unified, knowledge-based generative framework that addresses the fundamental trilemma between flexibility, efficiency, and stability in PDE-constrained inverse problems. By natively treating sensor data as permutation-invariant sets, PIS elegantly circumvents the grid-dependency of previous models.  
+
+## 🌟 Key Highlights
+
+- **Robust Generalization Under Extreme Sparsity:** Employs an effective Cosine-Annealed Sparsity Curriculum (CASC) training strategy to prevent catastrophic posterior collapse, even under extreme <1% observation coverage.  
+- **Arbitrary Sensor Layouts:** Utilizes an innovative Set-Conditioned Flow Matching architecture to natively support arbitrary and off-grid sensors without heuristic interpolations.  
+- **Real-Time Inference Efficiency:** Leverages deterministic, straight-path transport to achieve instantaneous inference, offering an over 4x speedup compared to diffusion baselines.  
+- **Information-Based Optimization:** Provides rigorous uncertainty quantification (UQ) and serves as a data-driven tool for evaluating Shannon Entropy, guiding optimal sensor placement in engineering applications.  
 
 ------
 
@@ -44,67 +45,62 @@ Plaintext
 └── README.md
 ```
 
-## Getting Started
+------
 
-### 1. Environment Setup
+## 🏗️ Architecture
 
-Create a virtual environment and install dependencies:
+PIS operates on a **Set-Conditioned Transformer U-Net (SCTU-Net)**.  
 
-Bash
+- **Set Encoder:** A Set Transformer with Induced Set Attention Blocks (ISAB) encodes raw unstructured observations into latent features.  
+
+- **Dual-Path Streams:** The architecture bifurcates to extract a Global Context via Pooling Multihead Attention (PMA) and a grid-aligned Spatial Map via cross-attention.  
+
+- **Generative Backbone:** These set embeddings are injected into a U-Net backbone via field synthesis and adaptive group normalization to construct the deterministic probability flow.  
+
+  
+
+------
+
+## 🌍 Physical Scenarios and Datasets
+
+The framework is rigorously evaluated across three diverse PDE-governed systems:
+
+- **Subsurface Characterization:** Estimating heterogeneous hydraulic conductivity fields from sparse measurements of hydraulic head and solute concentration, governed by steady-state Darcy flow and advection-dispersion equations.  
+- **Wave-based Characterization:** Inverting spatially varying wavenumbers from partial wavefield observations, governed by the 2D Helmholtz equation (camlab-ethz benchmark).  
+- **Structural Health Monitoring (SHM):** Reconstructing the Young's modulus field of a two-phase heterogeneous medium solely from sparse displacement measurements under static inverse elasticity.  
+
+------
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Python 3.8+
+- PyTorch 2.0+
+- NVIDIA GPU (Experiments were conducted on a single NVIDIA A100 80GB GPU).  
+
+### Installation
+
+Clone the repository and install the required dependencies:
 
 ```
-conda create -n pis_env python=3.9
-conda activate pis_env
+git clone https://github.com/RaphaelYangWJ/Physical-Inversion-Solver.git
+cd Physical-Inversion-Solver
 pip install -r requirements.txt
 ```
 
-### 2. Reproducibility Pipeline
-
-To fully reproduce the experiments from scratch, please follow the 4-step pipeline below.
-
-#### Step 1: Generate Simulation Data (Raw Physics Fields)
-
-The data generation process varies by physical domain. Please navigate to `data/` and run the specific scripts:
-
-- **Subsurface Characterization (Darcy Flow):**
-  - This module requires a **Fortran compiler** (for MODFLOW/MT3DMS) and **MATLAB**.
-  - *Note: This generates raw hydraulic head and concentration fields and corresponding K fields.*\
-- **Structural Health Monitoring (SHM):**
-  - Run: the script in data/SHM
-- **Wave-based Characterization (Helmholtz):**
-  - This dataset can be download on Hugging Face: `camlab-ethz/Helmholtz`
-
-#### Step 2: Data Processing
-
-Convert the raw simulation outputs into the array format and saved as h5 file for subsequent training. This step normalizes coordinates and standardizes physical values.
-
-- Run data preprocessor.ipynb for dataset preparations
-
-#### Step 3: Training (PIS Framework)
-
-To start training the model with the **Cosine-Annealed Sparsity Curriculum (CASC)**, run `main.py`. You can specify the task via config files.
-
-Bash
-
-```python
-# Train PIS on the SHM task
-python main.py
-```
-
-The script will automatically handle the curriculum scheduling defined in `training/casc.py`.
-
-#### Step 4: Inference & Inversion
-
-To evaluate the model and perform inversion on sparse observations, we provide an interactive Jupyter Notebook.
-
-- Open `sampler.ipynb`.
-
-- Load the model (or use the provided `tiny_debug.pt` for a sanity check).
-
-  The notebook demonstrates how to:
-
-  1. Sample sparse observations from ground truth.
-  2. Run the ODE solver (Euler method, 20 NFEs).
-  3. Visualize the inversion physical result.
-
 ------
+
+## 🏃‍♂️ Training the Model
+
+The optimization is driven by the Adam optimizer and follows a specialized two-stage training lifecycle to effectively learn physical priors and prevent mode collapse.  
+
+**Stage 1: Warmup** The model is trained exclusively on dense observations for 300 epochs to establish a robust global understanding of the physical field.  
+
+**Stage 2: Cosine-Annealed Sparsity Curriculum (CASC)** The model is fine-tuned for 1000 epochs while the observation sparsity is dynamically annealed from a dense, well-posed regime down to the target ill-posed sparsity.  
+
+To initiate training, run:
+
+```
+python train.py --config configs/subsurface.yaml
+```
