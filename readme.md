@@ -7,7 +7,7 @@ The Physical Inversion Solver (PIS) is a unified, knowledge-based generative fra
 <table>
   <tr>
     <td align="center">
-      <img src="materials/PIS-Darcyflow.gif" alt="DOGIS: Darcy Flow" width="250">
+      <img src="materials/PIS-Darcy Flow.gif" alt="DOGIS: Darcy Flow" width="250">
       <br>
       <em>PIS: Darcy Flow</em>
     </td>
@@ -17,7 +17,7 @@ The Physical Inversion Solver (PIS) is a unified, knowledge-based generative fra
       <em>PIS: Helmholtz</em>
     </td>
       <td align="center">
-      <img src="materials/PIS-SHM.gif" alt="DOGIS: Structural Health Monitoring" width="250">
+      <img src="materials/PIS-Helmholtz.gif" alt="DOGIS: Structural Health Monitoring" width="250">
       <br>
       <em>PIS: Structural Health Monitoring</em>
     </td>
